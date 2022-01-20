@@ -1,19 +1,13 @@
-# atomic-design
+# Marcos Website
 
-## Project setup
-```
-npm install
-```
+Website fictício feito no curso da [cataline](https://cataline.io) @cataline4learning
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Usando a metodologia: Atomic design
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tecnologias usadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-  Vuejs
+-  NuxtJs
+-  Typescript
+
+![Pagina inicial](Screenshot.png)
